@@ -82,7 +82,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color:#00275b;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -105,7 +105,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #2a2a2a;
+  color: #9eaafd;
 }
 
 /* 
@@ -115,18 +115,18 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: #00275b;
   font-family: 'Poppins', sans-serif;
 }
 
 ::selection {
-  background: #2a2a2a;
-  color: #fff;
+  background: #00275b;
+  color: #9eaafd;
 }
 
 ::-moz-selection {
-  background: #2a2a2a;
-  color: #fff;
+  background: #00275b;
+  color: #9eaafd;
 }
 
 @media (max-width: 991px) {
@@ -156,14 +156,14 @@ body {
 }
 
 .main-border-button a:hover {
-  background-color: #fff;
-  color: #2a2a2a;
+  background-color: #00275b;
+  color: #9eaafd;
 }
 
 .main-white-button a {
   font-size: 13px;
-  color: #2a2a2a;
-  background-color: #fff;
+  color: #9eaafd;
+  background-color: #00275b;
   padding: 12px 25px;
   display: inline-block;
   border-radius: 3px;
@@ -177,7 +177,7 @@ body {
 
 .main-text-button a {
   font-size: 13px;
-  color: #fff;
+  color: #9eaafd;
   font-weight: 600;
   transition: all .3s;
 }
@@ -189,12 +189,12 @@ body {
 .section-heading h2 {
   font-size: 34px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #9eaafd;
 }
 
 .section-heading span {
   font-size: 14px;
-  color: #a1a1a1;
+  color: #9eaafd;
   font-style: italic;
   font-weight: 400;
 }
@@ -209,7 +209,7 @@ header
 
 .background-header {
   border-bottom: none !important;
-  background-color: #fff;
+  background-color: #00275b;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -228,13 +228,13 @@ header
 }
 
 .background-header .nav li a.active {
-  color: #2a2a2a!important;
+  color: #9eaafd!important;
 }
 
 .header-area {
   border-bottom: 3px dotted #eee;
   box-shadow: none;
-  background-color: #fff;
+  background-color: #00275b;
   position: absolute;
   top: 0px;
   left: 0px;
